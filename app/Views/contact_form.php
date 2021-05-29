@@ -51,6 +51,7 @@
             </div>
         <?php }?>
       </div>
+        <label>Pohlaví:</label>
         <select class="form-control" name="pohlavi" id="pohlavi">
             <option value="0"></option>
   <option value="2" name="zena">Žena</option>
